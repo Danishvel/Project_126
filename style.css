@@ -1,0 +1,19 @@
+.Heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 25px;
+    background-color: darkblue;
+    color: wheat;
+}
+.NOTE{
+    font-size: 15px;
+    color: lightgoldenrodyellow;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border-radius: 10px;
+    border: 5px double blue;
+    border-width: 10px;
+}
